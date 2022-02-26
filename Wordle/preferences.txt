@@ -1,5 +1,0 @@
-colourblind_mode : False
-//This changes the "correct" letter colour from green --> blue [True, False]
-
-infinite_attempts : False
-//Lets you have infinite guesses [True, False]
