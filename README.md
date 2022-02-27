@@ -1,8 +1,8 @@
 # Wordle
-"Wordle" in python.
 
 // Description
 
+"Wordle" in python.
 For when interent is not available, the Wordle website is blocked or you just feel like playing in the terminal.
 
 // Modules
