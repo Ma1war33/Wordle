@@ -64,8 +64,7 @@ class wordle():
 
             global answer
             answer =answers_list[answer_number]
-
-        print("\033[8m" + str(answer) + colour.BASE)
+            
         return answer
 
     #checks if guess is a word
