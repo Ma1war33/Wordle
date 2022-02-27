@@ -3,7 +3,7 @@
 // Description
 
 "Wordle" in python.
-For when interent is not available, the Wordle website is blocked or you just feel like playing in the terminal.
+For when interent is not available, the Wordle website is not accessible or you just feel like playing in the terminal.
 
 // Modules
 
@@ -20,7 +20,7 @@ Guess the WORDLE in six tries.
 Each guess must be a valid five-letter word. Hit the enter button to submit.
 If the word is not a valid word it will not be submitted.
 
-After each guess, the color of the tiles will change to show how close your guess was to the word.
+After each guess, the color of the letters will change to show how close your guess was to the word.
 
 // Options
 
