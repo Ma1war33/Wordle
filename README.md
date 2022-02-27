@@ -1,14 +1,17 @@
 # Wordle
 "Wordle" in python.
+
+// Description
+
 For when interent is not available, the Wordle website is blocked or you just feel like playing in the terminal.
 
-//Modules
+// Modules
 
 - PyDictionary
 - os (Built-In)
 - random (Built-In)
 
-//Instructions
+// Instructions
 
 Launch main.py to play.
 
@@ -19,6 +22,6 @@ If the word is not a valid word it will not be submitted.
 
 After each guess, the color of the tiles will change to show how close your guess was to the word.
 
-//Options
+// Options
 
 Colourblind and other game options in "preferences.txt", change "False" --> "True".
