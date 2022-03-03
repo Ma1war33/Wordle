@@ -7,7 +7,7 @@ For when interent is not available, the Wordle website is not accessible or you 
 
 // Modules
 
-- PyDictionary (Will run without PyDictionary but definition of words will not be shown)
+- PyDictionary
 - os (Built-In)
 - random (Built-In)
 
